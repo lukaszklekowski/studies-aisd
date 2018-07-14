@@ -1,1 +1,1 @@
-# Solutions for Scientific Computations
+# Solutions for Algorytmy i Struktury Danych 2017
