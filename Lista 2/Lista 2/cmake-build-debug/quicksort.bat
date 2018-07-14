@@ -1,0 +1,1 @@
+python C:\Users\Lukasz\PycharmProjects\Lista2\QuickSortPlot.py

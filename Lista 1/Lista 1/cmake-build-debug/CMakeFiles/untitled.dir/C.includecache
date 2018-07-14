@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lukasz/CLionProjects/untitled/Zad3.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/time.h
+-
+
